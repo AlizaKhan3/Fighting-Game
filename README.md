@@ -6,4 +6,5 @@ To Sit - Down Key <br>
 To Shoot - Spacebar Key <br>
 To Hide - h Key <br>
 
-Check it out here:<a href="https://fightingo.surge.sh/">Fightingo</a>
+Check it out here:
+<a href="https://fightingo.surge.sh/">Fightingo</a>
