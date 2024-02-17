@@ -3,7 +3,6 @@
     padding: 0px;
     box-sizing: border-box;
 }
-
 .start {
     background-color: rgba(204, 0, 0, 0.8); /* Deep red background */
     border-radius: 20px;
@@ -16,7 +15,6 @@
     padding-top: 3%;
     overflow: hidden; /* Hide overflow for a cleaner look */
 }
-
 @keyframes blink {
     0% {
         box-shadow: -2px 0px 21px 26px rgba(255, 0, 0, 0.8); /* Dark red shadow */
@@ -30,7 +28,6 @@
         box-shadow: -2px 0px 21px 26px rgba(255, 0, 0, 0.8); /* Back to dark red shadow */
     }
 }
-
 .heading {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 4rem;
@@ -56,9 +53,7 @@
     box-shadow: 1px 0px 21px 0px rgba(255, 230, 0, 0.75);
     -webkit-box-shadow: 1px 0px 21px 0px rgba(255, 230, 0, 0.75);
     -moz-box-shadow: 1px 0px 21px 0px rgba(255, 230, 0, 0.75);
-
 }
-
 .backgrnd {
     background-image: url("Animations/iagYykI.gif");
     width: 100%;
@@ -68,16 +63,13 @@
     background-position: bottom;
     position: absolute;
 }
-
 .character {
     margin-left: 80px;
     position: absolute;
     width: 250px;
     height: 250px;
-    /* margin-top: 367px; */
     bottom: 20px;
 }
-
 .hide {
     position: top;
     top: 0px;
