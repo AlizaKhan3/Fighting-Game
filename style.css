@@ -8,12 +8,12 @@
     background-color: rgba(204, 0, 0, 0.8); /* Deep red background */
     border-radius: 20px;
     width: 40%;
-    height: 65vh;
+    height: 40vh;
     position: relative;
-    left: 36rem;
+    left: 27rem;
     top: 11rem;
     animation: blink 1.2s ease-out 0s infinite;
-    padding-top: 10%;
+    padding-top: 3%;
     overflow: hidden; /* Hide overflow for a cleaner look */
 }
 
@@ -33,7 +33,7 @@
 
 .heading {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 6rem;
+    font-size: 4rem;
     color: #fff;
     text-align: center;
      padding-bottom: 10px;
@@ -47,7 +47,7 @@
     background-color: #dccf35b5;
     border: 2px solid #f0e247b5;
     border-radius: 60px;
-    margin-left: 38%;
+    margin-left: 30%;
 }
 
 .btn:hover {
@@ -72,10 +72,10 @@
 .character {
     margin-left: 80px;
     position: absolute;
-    width: 300px;
-    height: 400px;
+    width: 250px;
+    height: 250px;
     /* margin-top: 367px; */
-    bottom: 10px;
+    bottom: 20px;
 }
 
 .hide {
