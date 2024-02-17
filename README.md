@@ -7,6 +7,7 @@ To Shoot - Spacebar Key <br>
 To Hide - h Key <br>
 
 Check it out here:
-<a href="https://fightingo.netlify.app/"> Netlify Link </a>
-<a href="https://fightingo.surge.sh/"> Surge Link </a>
+<a href="https://fightingo.netlify.app/" target="_blank"> Netlify Link </a>
+<br>
+<a href="https://fightingo.surge.sh/" target="_blank"> Surge Link </a>
 
